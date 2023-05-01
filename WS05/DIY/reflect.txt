@@ -1,0 +1,19 @@
+/*
+*****************************************************************************
+                  Workshop 5 (Part 2)
+
+Name = Gautam Gandotra
+Email = ggandotra@myseneca.ca
+Student ID = 164064214
+Section = NRA
+Date = 22 Feburary 2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*****************************************************************************
+*/
+
+
+
+In this workshop I learned about the operator overloading concept which is very important in C++. This concept was relatively new for me and it took me some time to fully implement the overloading of operators. I learned that in C++, we can overload any operator with exception to some and these operators can be very helpful in making our program simplified and it helps to make them work efficiently. I also learned about overloading of insertion operator << along with the use of the ostream reference to display the program. I struggled in doing overlading of post and prefix unary operators first in the lab part of this workshop but at the end of DIY workshop I was able to do that efficiently.
+I learned that we can overload any operator as much as it makes mathematical sense and it has many application such as to add two classes or more.
