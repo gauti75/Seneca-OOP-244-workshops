@@ -1,0 +1,18 @@
+/*
+*****************************************************************************
+                  Workshop 7 (Part 2)
+
+Name = Gautam Gandotra
+Email = ggandotra@myseneca.ca
+Student ID = 164064214
+Section = NRA
+Date = 17 March 2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*****************************************************************************
+*/
+
+In this workshop, I learned a lot about the inheritance and how to use it constructors and destructors. This workshop took me 2 hours to complete and it was a little bit confusing at first as inheritance was new concept for me but overall I learned a lot in this workshop. Mainly, i got to learn about how to use the one class inside another class.
+
+Regarding the milestone 2, it was little bit hard for me as it really very long and took me 2 days to complete it in which I was stuck for 1 day in my read() function in the istream operator as I was not able to pass the last test cases but then I figure it out as I have to intialize its values to data members by creating the getter and setter methods to make it work correctly.

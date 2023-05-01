@@ -1,0 +1,17 @@
+/*
+*****************************************************************************
+                  Workshop 6 (Part 2)
+
+Name = Gautam Gandotra
+Email = ggandotra@myseneca.ca
+Student ID = 164064214
+Section = NRA
+Date = 08 March 2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*****************************************************************************
+*/
+
+In this workshop, I learned about the Rule of three and more about using dynamic memory. I was struggling a lot with the memory leakage in the matrix as I was not able to figure out where Val grind was pointing out my memory errors in my code as it was fully functioning in the VS Code. I also learn how to use file operations such as ostream and ifstream and how to overload them using ostream and isstream so that we would be using that instead of cin and cout. I also learned that always deallocate the memory after allocating it to always prevent memory errors as I am still making a lot of unnecessary mistakes while allocating memory.
+For the project, I learned about how to do data fool proof which was validating the data from the user. For the milestone 1, I mainly read all the important instructions needed to complete the project and the essential rules required to complete it. 

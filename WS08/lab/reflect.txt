@@ -1,0 +1,16 @@
+/*
+*****************************************************************************
+                  Workshop 8 (Part 2)
+
+Name = Gautam Gandotra
+Email = ggandotra@myseneca.ca
+Student ID = 164064214
+Section = NRA
+Date = 22 March 2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*****************************************************************************
+*/
+
+In this workshop, I learned about the virtual and pure virtual functions. I also learned about the interface and abstract class and I also got to know that how to use these functions effectively to maximize the reusing of our code. I was having memory error in the workshop firstly because of a stupid mistake which I was making but overall this workshop was easy to do and took me 3 hours overall to complete it. I also got to know about the concept of inheritance more appropriately using different classes and how the derieved classes are linked to the base classes including destructors and constructors.
