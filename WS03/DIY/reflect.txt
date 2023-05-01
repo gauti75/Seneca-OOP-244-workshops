@@ -1,0 +1,18 @@
+/*
+*****************************************************************************
+				  Workshop 3 (Part 2)
+
+Name = Gautam Gandotra
+Email = ggandotra@myseneca.ca
+Student ID = 164064214
+Section = NRA
+Date = 05 Feburary 2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*****************************************************************************
+*/
+
+The main thing which I learned in this workshop was using the iomanip libary part such as setw, sepercision, sefill etc. and how to use them effectively to print the data in a specific format. Also, I learned how to declare and use classes effectively and call private data members and how to call member functions effectively to modify and update the data. The thing in which I mainly faced difficulty in this workshop was the addProject function in the lab part in which I had to load the project structure array with the help of a temp array effectively.
+
+I also learned the alternatives of cout.width and cout.fill  that is setw and setfill while doing the DIY part which in my opinion is easy as compared to using the initial ones. Moreover, this workshop teaches me to explore more about nested classes and how to call the necessary overload functions from one another.

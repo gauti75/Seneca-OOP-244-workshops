@@ -1,0 +1,19 @@
+/*
+*****************************************************************************
+                  Workshop 2 (Part 2)
+
+Name = Gautam Gandotra
+Email = ggandotra@myseneca.ca
+Student ID = 164064214
+Section = NRA
+Date = 28 January 2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*****************************************************************************
+*/
+
+
+
+In this workshop he main concept which I learned is about how to use the overloading functions along with the appropriate use of Dynamic memory. The lab part of this workshop was quite easy for me but I struggled in the loadTraces function part where we have to call it to another loadTraces overloaded function instead of that lab was easy for me. And from understanding the lab properly I was able to get a good grasp of the DIY also where I struggled a lot with the addCustomer function but finally was able to get it right.
+This workshop has mainly taught me how to use allocate and deallocate memory properly which I think would be the most important concept in the upcoming workshops. Also, this workshop taught me the how to use references more often than the pointers and how these are comparatively easier to use as compare to the pointers. I also learned about a new function in c++ called the memset which is the fastest way to set the character string to zero instead of using any for loop. 
