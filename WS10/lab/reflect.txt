@@ -1,0 +1,17 @@
+/*
+*****************************************************************************
+                  Workshop 10 (Part 1)
+
+Name = Gautam Gandotra
+Email = ggandotra@myseneca.ca
+Student ID = 164064214
+Section = NRA
+Date = 5 April 2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*****************************************************************************
+*/
+
+
+In this workshop I learned about templates as this concept was new to me and I have not read this concept before and it was interesting to learn this concept and I also learned about its syntax. For first its syntax looks complex but the use of templates is more necessary to more enhance the use polymorphism which is the basic principle of C++. In the milestone 4, I mainly combined my previous milestones and just submit my project part 4 by creating two more derived classes form the base class Item and just modifying it little.

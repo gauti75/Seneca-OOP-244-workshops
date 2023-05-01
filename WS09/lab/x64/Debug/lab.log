@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: main already defined in Source.obj
+C:\Users\gauta\Desktop\My OOP 244 Workshops\WS09\lab\x64\Debug\lab.exe : fatal error LNK1169: one or more multiply defined symbols found
