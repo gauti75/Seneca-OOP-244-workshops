@@ -1,0 +1,19 @@
+/*
+*****************************************************************************
+                  Workshop 4 (Part 2)
+
+Name = Gautam Gandotra
+Email = ggandotra@myseneca.ca
+Student ID = 164064214
+Section = NRA
+Date = 15 Feburary 2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*****************************************************************************
+*/
+
+
+In this workshop I mainly learned about the constructors and destructors. I struggled a lot in this workshop in the DIY part as I was not able to do it for most of the time and I was stuck for so long because of dynamic memory errors but then by researching for the topic I resolved the error. 
+
+I also learned about the go to statement while making this code as it was required in the read function. For most of the time I was using the ignore method in the read function to get the 40 characters of the string but I was not able to get it. Therefore, then I discover an another method of using goto statement to pass control of my if- else statement but then finally I used strCpy in the print function to get only the 40 characters of the string and display the output as required.
